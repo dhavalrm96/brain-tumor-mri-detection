@@ -1,4 +1,4 @@
-# brain-tumor-mri-detection
+# Brain-Tumor-Mri-Detection
 A deep learning-powered web application that analyzes MRI brain scans to detect and classify brain tumors using TensorFlow and Keras.
 
 ## Overview
