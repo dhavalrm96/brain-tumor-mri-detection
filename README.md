@@ -22,3 +22,6 @@ Frontend: HTML5, CSS3, Bootstrap 5
 Image Processing: PIL, NumPy
 
 Model Training: Jupyter Notebook
+
+##  License
+This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
